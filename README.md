@@ -1,5 +1,6 @@
 # [Homepage](https://danggoodcode.com/startpage)
-
+# WARNING
+I am not the original creator, I modified the work of https://github.com/Jaredk3nt from his homepage repo https://github.com/Jaredk3nt/homepage
 ![homepage](https://i.redd.it/cbnzq36zj3601.gif)
 
 ## Customization
