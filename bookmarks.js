@@ -29,8 +29,8 @@ const bookmarks = [
       { name: "FreeCodeCamp", url: "https://www.freecodecamp.org/learn/" },
       { name: "TheOdinProject", url: "https://www.theodinproject.com/" },
       { name:  "Fokus", url: "https://fokusapp.netlify.app/" },
-      { name: "Aula Virtual", url: "aulavirtual-educacion.larioja.org/" },
-      { name: "OpenWebinars", url: "openwebinars.net" }
+      { name: "Aula Virtual", url: "https://aulavirtual-educacion.larioja.org/" },
+      { name: "OpenWebinars", url: "https://openwebinars.net" }
     ],
   },
   {
