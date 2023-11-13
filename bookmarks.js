@@ -31,7 +31,10 @@ const bookmarks = [
       { name:  "Fokus", url: "https://fokusapp.netlify.app/" },
       { name: "Aula Virtual", url: "https://aulavirtual-educacion.larioja.org/" },
       { name: "OpenWebinars", url: "https://openwebinars.net/academia/cursos/" },
-      { name: "Open Bootcamp", url: "https://campus.open-bootcamp.com/" }
+      { name: "Open Bootcamp", url: "https://campus.open-bootcamp.com/" },
+      { name: "LWJGL", url: "https://lwjglgamedev.gitbooks.io/3d-game-development-with-lwjgl/content/" },
+      { name: "LWJGL", url: "https://lwjglgamedev.gitbooks.io/3d-game-development-with-lwjgl/content/" },
+      { name: "OpenGL", url: "https://learnopengl.com/" },
     ],
   },
   {
